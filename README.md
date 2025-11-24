@@ -1,5 +1,5 @@
 Project Overview & How to Run-
-The Campus Course & Records Manager (CCRM) is an end-to-end turnkey system implemented using Java SE. It is intended to be a powerful platform for managing an educational institution’s core information — student and course records, financial informations, and the like.
+student management system is an end-to-end turnkey system implemented using Java SE. It is intended to be a powerful platform for managing an educational institution’s core information — student and course records, financial informations, and the like.
 
 Requirements: Java Development Kit (JDK): Version 17 and Above
 IDE: Eclipse, IntelliJ IDEA, or VS Code with Java extensions
